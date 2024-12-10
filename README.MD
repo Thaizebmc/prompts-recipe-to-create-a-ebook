@@ -43,6 +43,7 @@ Copilot：
 
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via Copilot
+- Diagramação com MS PowerPoint
 
 ## 📚 Materiais
 
