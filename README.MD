@@ -29,7 +29,7 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema equilíbrio do tempo de conexão nas redes sociais, o ebook é do nicho de qualidade de vida e o subnicho é de bem-estar mental e físico, o título deve ser elegante, convidativo e enxuto, e tenha uma temática de equilibrista de circo na corda bamba, me liste 5 variações de títulos                                                        |
+|  título  | Crie um título de um ebook sobre o tema equilíbrio do tempo de conexão nas redes sociais, o ebook é do nicho de qualidade de vida e o subnicho é de bem-estar mental e físico, o título deve ser elegante, convidativo e enxuto, e ter uma temática de equilibrista de circo na corda bamba, me liste 5 variações de títulos                                                        |
 | conteúdo | Faça um texto para ebook, com foco em equilíbrio entre vida online e vida real, listando os principais pontos negativos do excesso de telas e de redes sociais e os pontos positivos quando se tem equilíbrio entre vida real e vida digital. O texto deve estar relacionado ao título NA CORDA BAMBA DA VIDA, COMO MANTER O EQUILÍBRIO ENTRE O MUNDO VIRTUAL E O MUNDO REAL |
 
 
