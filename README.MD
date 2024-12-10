@@ -22,19 +22,19 @@
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluna na plataforma da [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um ebook digital
+Sinopse
 
 Vivemos em um tempo onde a linha entre o mundo virtual e o mundo real é cada vez mais tênue. Estamos na "corda bamba",
 equilibrando constantemente a vida online e a vida offline.
 Quando esse equilíbrio se perde, podemos nos sentir desconectados de nós mesmos e das pessoas ao nosso redor.
-Neste ebook, vamos explorar os principais pontos negativos do excesso de telas e redes sociais, e como encontrar um meiotermo saudável entre esses dois mundos.
+Neste ebook, vamos explorar os principais pontos negativos do excesso de telas e redes sociais, e como encontrar um meio termo saudável entre esses dois mundos.
 
 <a href="output/Ebook - Na Corda Bamba da Vida.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Copilot](https://copilot.microsoft.com/onboarding)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -44,20 +44,20 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título de um ebook sobre o tema equilíbrio do tempo de conexão nas redes sociais, o ebook é do nicho de qualidade de vida e o subnicho é de bem-estar mental e físico, o título deve ser elegante, convidativo e enxuto, e tenha uma temática de equilibrista de circo na corda bamba, me liste 5 variações de títulos                                                        |
+| conteúdo | Faça um texto para ebook, com foco em equilíbrio entre vida online e vida real, listando os principais pontos negativos do excesso de telas e de redes sociais e os pontos positivos quando se tem equilíbrio entre vida real e vida digital. O texto deve estar relacionado ao título NA CORDA BAMBA DA VIDA, COMO MANTER O EQUILÍBRIO ENTRE O MUNDO VIRTUAL E O MUNDO REAL |
 
 
-Midjourney：
+Copilot：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Crie uma imagem de um equilibrista na corda bamba segurando uma vara na horizontal, em cada ponta da vara deverá constar um pergaminho desenrolado em branco. No plano de fundo deverão constar símbolos de redes sociais e de tarefas comuns do dia a dia, como ir ao trabalho, levar os filhos para a escola , ir à academia, ao salão de beleza, sair com os amigos e brincar com os filhos. A imagem deve ser colorida e atrativa |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Copilot
 
 ## 📚 Materiais
 
@@ -77,14 +77,14 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       width=80 
       src="https://avatars.githubusercontent.com/u/37452836?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspThaize Campos<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="https://github.com/Thaizebmc/">
     GitHub</a>&nbsp;|&nbsp;
     <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
+Thaize">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
+    <a href="https://www.instagram.com/Thaizecampos/">
     Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
@@ -93,4 +93,4 @@ felipe-exe">LinkedIn</a>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Thaize Campos](https://github.com/Thaizebmc/)
