@@ -69,7 +69,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     <a href="www.linkedin.com/in/
 Thaize">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/Thaizecampos/">
+    <a href="https://www.instagram.com/camposthaize/">
     Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
