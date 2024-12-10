@@ -22,8 +22,12 @@
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluna na plataforma da [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
+Projeto com o objetivo de gerar um ebook digital
+
+Vivemos em um tempo onde a linha entre o mundo virtual e o mundo real é cada vez mais tênue. Estamos na "corda bamba",
+equilibrando constantemente a vida online e a vida offline.
+Quando esse equilíbrio se perde, podemos nos sentir desconectados de nós mesmos e das pessoas ao nosso redor.
+Neste ebook, vamos explorar os principais pontos negativos do excesso de telas e redes sociais, e como encontrar um meiotermo saudável entre esses dois mundos.
 
 <a href="output/Ebook - Na Corda Bamba da Vida.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
