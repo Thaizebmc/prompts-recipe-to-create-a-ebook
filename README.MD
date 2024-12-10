@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://dio.me/"><img src="assets/capared.jpg" alt="Na Corda Bamba"></a>
+<a href="https://github.com/Thaizebmc/prompts-recipe-to-create-a-ebook"><img src="assets/capared.jpg" alt="Na Corda Bamba"></a>
 </p>
 
 # Projeto EBOOK Gerado por I.A.s
