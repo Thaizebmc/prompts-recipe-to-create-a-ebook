@@ -66,8 +66,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     &nbsp&nbsp&nbsp
     <a href="https://github.com/Thaizebmc/">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-Thaize">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/thaize-barbosa-mendes-campos-63b47427a/">LinkedIn</a>
 &nbsp;|&nbsp;
     <a href="https://www.instagram.com/camposthaize/">
     Instagram</a>
