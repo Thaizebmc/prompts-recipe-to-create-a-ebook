@@ -37,7 +37,7 @@ Copilot：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | Crie uma imagem de um equilibrista na corda bamba segurando uma vara na horizontal, em cada ponta da vara deverá constar um pergaminho desenrolado em branco. No plano de fundo deverão constar símbolos de redes sociais e de tarefas comuns do dia a dia, como ir ao trabalho, levar os filhos para a escola , ir à academia, ao salão de beleza, sair com os amigos e brincar com os filhos. A imagem deve ser colorida e atrativa |
+| título | Crie uma imagem de uma mulher equilibrista na corda bamba segurando uma vara na horizontal. A imagem deve ser colorida e atrativa |
 
 ## ✨ Features
 
